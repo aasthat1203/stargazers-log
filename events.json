@@ -1,0 +1,38 @@
+[
+  {
+    "name": "octocat/Spoon-Knife",
+    "full_name": "octocat/Spoon-Knife",
+    "description": "This repo is for demonstration purposes only.",
+    "html_url": "https://github.com/octocat/Spoon-Knife",
+    "language": "HTML",
+    "stargazers_count": 12000,
+    "updated_at": "2026-08-28T09:15:00Z"
+  },
+  {
+    "name": "microsoft/vscode",
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "html_url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stargazers_count": 172000,
+    "updated_at": "2026-09-03T14:30:00Z"
+  },
+  {
+    "name": "github/docs",
+    "full_name": "github/docs",
+    "description": "The open-source repo for docs.github.com.",
+    "html_url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "stargazers_count": 18000,
+    "updated_at": "2026-09-07T11:45:00Z"
+  },
+  {
+    "name": "denoland/deno",
+    "full_name": "denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "html_url": "https://github.com/denoland/deno",
+    "language": "Rust",
+    "stargazers_count": 98000,
+    "updated_at": "2026-09-01T16:20:00Z"
+  }
+]
